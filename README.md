@@ -15,3 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; El objetivo principal es que los alumnos sean capaces de desarrollar una pequeña aplicación que pueda proveer apoyo emocional a los jóvenes en momentos de crisis, identificar situaciones de riesgo y proporcionar recursos y herramientas para el manejo de emociones y pensamientos negativos que puedan suponer un riesgo para ellos. De esta forma estarán realizando un proyecto de Aprendizaje y Servicio en el que colaboran en una iniciativa que busca ayudar a personas con dificultades de esta índole.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Con el desarrollo de estas aplicaciones, además de que los estudiantes tomen conciencia y rompan con el tabú y estigma del suicidio, también ayudará a la capacitación del Pensamiento Computacional y a desarrollar el interés por la programación de Apps mediante un lenguaje textual, en este caso Python junto con la biblioteca gráfica Tkinter.
+
+## Repositorio
+
+* Implementación en Python de posible APP a desarrollar por el alumnado. 
